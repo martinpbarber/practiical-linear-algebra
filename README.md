@@ -1,1 +1,1 @@
-# practiical-linear-algebra
+# practical-linear-algebra
