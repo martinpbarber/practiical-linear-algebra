@@ -1,5 +1,5 @@
 pip==23.0.1
-setuptools==67.5.1
+setuptools==67.6.0
 
 pandas==1.5.3
 notebook==6.5.3
